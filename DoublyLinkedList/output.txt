@@ -1,0 +1,11 @@
+Ascending order: 
+Bob
+Jack
+John
+
+##############################
+
+Descending order : 
+John
+Jack
+Bob

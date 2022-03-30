@@ -1,0 +1,15 @@
+
+  The form of each node would be: 
+  node value ( height, balance factor ) 
+
+
+  L0:    5(2, -1)  
+  L1:    3(0, 0)    9(1, 0)  
+  L2:    8(0, 0)    10(0, 0)  
+
+
+
+
+
+
+
